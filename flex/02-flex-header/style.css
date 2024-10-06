@@ -22,7 +22,6 @@ ul {
   list-style-type: none;
   /*what I added in*/
   display: flex;
-  flex-direction: row;
   margin: 0;
   padding: 0;
   gap: 8px;
