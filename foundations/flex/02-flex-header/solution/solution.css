@@ -39,3 +39,7 @@ ul {
   padding: 0;
   gap: 8px;
 }
+
+.line-height {
+  line-height: 80%;
+}
